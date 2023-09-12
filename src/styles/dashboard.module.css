@@ -1,0 +1,8 @@
+.tableAction {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cursor {
+  cursor: pointer;
+}
